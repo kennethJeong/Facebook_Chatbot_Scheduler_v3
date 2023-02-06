@@ -2,9 +2,6 @@
 </br>
 </br>
 
-![iphone7s](https://user-images.githubusercontent.com/41365432/216916374-0d0aa2eb-0288-42ba-8417-6118ed6f30f6.gif)
-
-
 ![scheduler_post_04_01](https://user-images.githubusercontent.com/41365432/216915079-01569fb1-c0df-41a5-b526-5a1d41855dab.jpg)
 ![scheduler_post_04_02](https://user-images.githubusercontent.com/41365432/216915094-20c688c7-e5f4-4275-b3cc-808f1c540daf.jpg)
 ![scheduler_post_04_03](https://user-images.githubusercontent.com/41365432/216915111-4ea16e0b-2897-42ad-816a-f2401a8ae061.jpg)

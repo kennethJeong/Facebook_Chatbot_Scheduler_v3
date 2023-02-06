@@ -2,7 +2,7 @@
 //
 // RDS
 //
-$dbhost = "BHandy.cxn14vv9dykn.ap-northeast-2.rds.amazonaws.com";
-$dbuser = "BHandy_JEH";
-$dbpass = "dmsgn7eh";
-$db = "BHandy_PNU";
+$dbhost = "AWS RDS 주소";
+$dbuser = "호스트 아이디";
+$dbpass = "호스트 암호";
+$db = "DB Schema 이름";

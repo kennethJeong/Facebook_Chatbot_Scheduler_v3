@@ -1,6 +1,5 @@
 ## 페이스북 메신저를 이용한 부산대학교 실시간 출석 체크 및 강의 관리 챗봇
 </br>
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/41365432/216915006-49c6170e-1e0e-4a6a-85bb-b54ddea40f8d.jpg">
 
 ![scheduler_post_04_01](https://user-images.githubusercontent.com/41365432/216915079-01569fb1-c0df-41a5-b526-5a1d41855dab.jpg)
 ![scheduler_post_04_02](https://user-images.githubusercontent.com/41365432/216915094-20c688c7-e5f4-4275-b3cc-808f1c540daf.jpg)

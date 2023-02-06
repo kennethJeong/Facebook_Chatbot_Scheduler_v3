@@ -3,9 +3,9 @@
 $conn = new mysqli($dbhost, $dbuser, $dbpass);
 $conn -> select_db($db);
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-$hubVerifyToken = 'BHandy_Scheduler_PNU';
-//$accessToken = "EAAdyBMCey5QBANXofZAcTTlKHINAkpbZAt8PZBDcOngSoTH173YRWXhZBNOSDtUzXbVk7A7ULeyCbTj4KYVOkIGKH6mnf7QYiOABqxZARqikdLrZBL8XYdws3khGd0DmP8UbmCamPnZAkZAzE8RUsEkRZBxLdci0uLFwW7u2nAtTQpnQr29pR2qHQ";
-$accessToken = "EAAdyBMCey5QBAHZBZAlW2HrTo3NG9yDYn7rTRBrSftD8eQSzWmeWOZBzgNJakUHUbu5boQCkkNWiQj0oFxwK4Q2MEk5Wi384461TU5A5ofLcTXcckQCe7B1HWpIuySiw7ZCYDuIeHOC5V8DlUptsSjKsa36tuDhBGPcwIFDSU6JT4MJnqvxd";
+$hubVerifyToken = '****';	// 페이스북 메신저 연결 토근
+
+$accessToken = "****";		// 페이스북 메신저 엑세스 토근
 if($_REQUEST['hub_verify_token'] === $hubVerifyToken) {
 	echo $_REQUEST['hub_challenge'];
 }
@@ -18,8 +18,8 @@ $payload = $input['entry'][0]['messaging'][0]['postback']['payload'];
 $payloadQR = $input['entry'][0]['messaging'][0]['message']['quick_reply']['payload'];
 
 ///////////////////////////////////////////////////
-$pageServiceID = "170646096902999";
-$appServiceID = "1615856678527988";
+$pageServiceID = "****";	// 페이스북 페이지 아이디
+$appServiceID = "****";		// 페이스북 앱 아이디
 ///////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 $thisYear = date("Y");
